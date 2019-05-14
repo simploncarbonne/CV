@@ -35,7 +35,7 @@ On continue dans l’optique de l’insertion professionnelle tout en mettant en
     • Adresse de la page internet.
     • Maquette au format papier.
 
-> A envoyer par mail
+> A envoyer par mail.   
 > Travail individuel.
 
 ## Réalisation attendues
